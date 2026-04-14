@@ -1,0 +1,9 @@
+Fetching: https://evilgodfahim.github.io/edit/daily_feed.xml
+  → 500 items found
+Fetching: https://evilgodfahim.github.io/bdit/daily_feed.xml
+  → 100 items found
+Fetching: https://evilgodfahim.github.io/bdit/daily_feed_2.xml
+  → 28 items found
+
+============================================================
+No articles found mentioning 'politepaul'.
